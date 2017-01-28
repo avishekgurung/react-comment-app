@@ -1,2 +1,8 @@
 # react-comment-app
-React application that does basic social media comment implementation
+
+Running the application
+
+1. Clone the repo
+2. npm install
+3. npm start
+4. Hit the browser http://localhost:8080
